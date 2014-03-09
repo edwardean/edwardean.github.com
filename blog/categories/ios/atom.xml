@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[李航]]></title>
-  <link href="http://edwardean.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iOS | 李航]]></title>
+  <link href="http://edwardean.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://edwardean.github.io/"/>
   <updated>2014-03-09T14:10:35+08:00</updated>
   <id>http://edwardean.github.io/</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ceshi]]></title>
+    <title type="html"><![CDATA[Ceshi]]></title>
     <link href="http://edwardean.github.io/blog/2014/03/09/title/"/>
     <updated>2014-03-09T14:03:19+08:00</updated>
     <id>http://edwardean.github.io/blog/2014/03/09/title</id>
