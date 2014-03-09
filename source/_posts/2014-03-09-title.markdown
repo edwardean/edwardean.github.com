@@ -3,5 +3,5 @@ layout: post
 title: "ceshi"
 date: 2014-03-09 14:03:19 +0800
 comments: true
-categories: 
+categories: iOS
 ---
